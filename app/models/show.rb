@@ -5,4 +5,8 @@ class Show < ActiveRecord::Base
   def self.build_show
 
   end
+
+  def self.build_network
+
+  end
 end
